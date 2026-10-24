@@ -2,13 +2,11 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/andremestremartins/MyPetHotel#readme",
-  "bugs": {
-    "url": "https://github.com/andremestremartins/MyPetHotel/issues"
-  },
+  "homepage": "",
+
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andremestremartins/MyPetHotel.git"
+    "url": "git+https://github.com/andremestremartins/Pets-Co.git"
   },
   "license": "ISC",
   "author": "",
@@ -18,6 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.3.0"
   }
 }
